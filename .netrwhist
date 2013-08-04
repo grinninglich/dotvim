@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/home/ilhan'
+let g:netrw_dirhist_2='/home/ilhan/public_html/js-examples'
+let g:netrw_dirhist_3='/home/ilhan/.vim/bundle'
+let g:netrw_dirhist_4='/home/ilhan/public_html/l4-blog'
+let g:netrw_dirhist_5='/home/ilhan/public_html/l4-blog/app/database'
+let g:netrw_dirhist_6='/home/ilhan/public_html/playground'
